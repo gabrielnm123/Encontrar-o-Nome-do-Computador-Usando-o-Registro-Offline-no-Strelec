@@ -1,0 +1,1 @@
+# Encontrar-o-Nome-do-Computador-Usando-o-Registro-Offline-no-Strelec
