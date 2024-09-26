@@ -28,4 +28,4 @@
 1. Após verificar o nome do computador, clique com o botão direito na chave **OfflineSystem** (ou o nome que você deu) em **HKEY_LOCAL_MACHINE**.
 2. Escolha **Unload Hive** para evitar problemas futuros.
 
-Esse procedimento permite visualizar o nome do computador do sistema Windows montado sem precisar inicializar o sistema operacional. Se precisar de mais alguma informação ou ajuda, me avise!
+Esse procedimento permite visualizar o nome do computador do sistema Windows montado sem precisar inicializar o sistema operacional.
